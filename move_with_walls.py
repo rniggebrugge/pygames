@@ -25,7 +25,7 @@ import pygame
 # Colors
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
-BLUE = (50, 50, 255)
+BLUE = (50, 90, 255)
  
 # Screen dimensions
 SCREEN_WIDTH = 800
